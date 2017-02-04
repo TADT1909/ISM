@@ -1,4 +1,8 @@
 //Project.HandShaking.Arduino.ino
+
+//Split incoming Serial string into parts by delimiter ("&")
+//Convert them to float in array
+
 /*Used some libraries and functions of C/C++ language:
   string.h  stdio.h stdlib.h
   strtok()  https://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm
